@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730968892 source:d:\zsolt\stringek\hozzadas append\main.cpp
+	<iostream>
+	<string>
+

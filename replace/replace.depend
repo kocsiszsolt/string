@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731042680 source:d:\zsolt\stringek\replace\main.cpp
+	<iostream>
+	<string>
+
